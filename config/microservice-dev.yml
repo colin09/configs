@@ -1,1 +1,4 @@
-env:develop
+env: develop
+name: app-name
+version: app-version
+note: note!!!
