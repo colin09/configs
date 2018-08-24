@@ -1,1 +1,4 @@
-env:prod
+env: prod
+name: app-name
+version: app-version
+note: note!!!
