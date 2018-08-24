@@ -1,1 +1,4 @@
 env: test
+name: app-name
+version: app-version
+note: note!!!
